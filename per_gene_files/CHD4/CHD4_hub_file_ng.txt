@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CHD4
+shortLabel D&D Gene Editing - CHD4
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CHD4)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CHD4 Common Variant Editing Targets
+shortLabel CHD4 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CHD4
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CHD4/CHD4_ng.bb

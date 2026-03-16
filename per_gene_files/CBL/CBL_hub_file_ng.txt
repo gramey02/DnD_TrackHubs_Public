@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CBL
+shortLabel D&D Gene Editing - CBL
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CBL)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CBL Common Variant Editing Targets
+shortLabel CBL targets
+longLabel Mutation-agnostic and allele-specific editing sites for CBL
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CBL/CBL_ng.bb

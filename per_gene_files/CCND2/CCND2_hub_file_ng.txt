@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CCND2
+shortLabel D&D Gene Editing - CCND2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CCND2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CCND2 Common Variant Editing Targets
+shortLabel CCND2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CCND2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CCND2/CCND2_ng.bb

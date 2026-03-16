@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CASR
+shortLabel D&D Gene Editing - CASR
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CASR)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CASR Common Variant Editing Targets
+shortLabel CASR targets
+longLabel Mutation-agnostic and allele-specific editing sites for CASR
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CASR/CASR_ng.bb

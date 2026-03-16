@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CALM1
+shortLabel D&D Gene Editing - CALM1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CALM1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CALM1 Common Variant Editing Targets
+shortLabel CALM1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CALM1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CALM1/CALM1_ng.bb

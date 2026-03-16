@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities
+shortLabel D&D Gene Editing Opportunities
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CommonVar_EditingTargets
+shortLabel D&D gene editing targets
+longLabel Mutation-agnostic and allele-specific editing sites for D&D genes
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/metadata/DnD_gene_ng.bb

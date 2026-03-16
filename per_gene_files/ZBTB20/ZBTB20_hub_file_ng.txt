@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ZBTB20
+shortLabel D&D Gene Editing - ZBTB20
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ZBTB20)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ZBTB20 Common Variant Editing Targets
+shortLabel ZBTB20 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ZBTB20
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ZBTB20/ZBTB20_ng.bb

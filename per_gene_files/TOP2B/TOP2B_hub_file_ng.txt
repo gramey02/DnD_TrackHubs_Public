@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - TOP2B
+shortLabel D&D Gene Editing - TOP2B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (TOP2B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track TOP2B Common Variant Editing Targets
+shortLabel TOP2B targets
+longLabel Mutation-agnostic and allele-specific editing sites for TOP2B
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/TOP2B/TOP2B_ng.bb

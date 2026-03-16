@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - TRPM7
+shortLabel D&D Gene Editing - TRPM7
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (TRPM7)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track TRPM7 Common Variant Editing Targets
+shortLabel TRPM7 targets
+longLabel Mutation-agnostic and allele-specific editing sites for TRPM7
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/TRPM7/TRPM7_ng.bb

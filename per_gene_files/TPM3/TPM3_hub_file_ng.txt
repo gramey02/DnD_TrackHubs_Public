@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - TPM3
+shortLabel D&D Gene Editing - TPM3
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (TPM3)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track TPM3 Common Variant Editing Targets
+shortLabel TPM3 targets
+longLabel Mutation-agnostic and allele-specific editing sites for TPM3
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/TPM3/TPM3_ng.bb

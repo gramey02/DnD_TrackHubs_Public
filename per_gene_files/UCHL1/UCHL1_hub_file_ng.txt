@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - UCHL1
+shortLabel D&D Gene Editing - UCHL1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (UCHL1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track UCHL1 Common Variant Editing Targets
+shortLabel UCHL1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for UCHL1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/UCHL1/UCHL1_ng.bb

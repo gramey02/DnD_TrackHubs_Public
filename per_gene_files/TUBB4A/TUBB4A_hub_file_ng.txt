@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - TUBB4A
+shortLabel D&D Gene Editing - TUBB4A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (TUBB4A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track TUBB4A Common Variant Editing Targets
+shortLabel TUBB4A targets
+longLabel Mutation-agnostic and allele-specific editing sites for TUBB4A
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/TUBB4A/TUBB4A_ng.bb

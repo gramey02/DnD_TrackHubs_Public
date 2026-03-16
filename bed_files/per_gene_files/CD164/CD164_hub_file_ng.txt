@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CD164
+shortLabel D&D Gene Editing - CD164
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CD164)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CD164 Common Variant Editing Targets
+shortLabel CD164 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CD164
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CD164/CD164_ng.bb

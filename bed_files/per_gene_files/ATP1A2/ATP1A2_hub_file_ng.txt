@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ATP1A2
+shortLabel D&D Gene Editing - ATP1A2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ATP1A2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ATP1A2 Common Variant Editing Targets
+shortLabel ATP1A2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ATP1A2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ATP1A2/ATP1A2_ng.bb

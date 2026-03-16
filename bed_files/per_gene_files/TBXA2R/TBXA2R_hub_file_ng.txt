@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - TBXA2R
+shortLabel D&D Gene Editing - TBXA2R
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (TBXA2R)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track TBXA2R Common Variant Editing Targets
+shortLabel TBXA2R targets
+longLabel Mutation-agnostic and allele-specific editing sites for TBXA2R
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/TBXA2R/TBXA2R_ng.bb

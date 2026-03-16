@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GRHL2
+shortLabel D&D Gene Editing - GRHL2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GRHL2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GRHL2 Common Variant Editing Targets
+shortLabel GRHL2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for GRHL2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GRHL2/GRHL2_ng.bb

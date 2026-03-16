@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - DDR2
+shortLabel D&D Gene Editing - DDR2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (DDR2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track DDR2 Common Variant Editing Targets
+shortLabel DDR2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for DDR2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/DDR2/DDR2_ng.bb

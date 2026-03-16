@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - DNM1L
+shortLabel D&D Gene Editing - DNM1L
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (DNM1L)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track DNM1L Common Variant Editing Targets
+shortLabel DNM1L targets
+longLabel Mutation-agnostic and allele-specific editing sites for DNM1L
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/DNM1L/DNM1L_ng.bb

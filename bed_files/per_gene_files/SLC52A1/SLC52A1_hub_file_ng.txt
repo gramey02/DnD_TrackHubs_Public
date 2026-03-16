@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SLC52A1
+shortLabel D&D Gene Editing - SLC52A1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SLC52A1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SLC52A1 Common Variant Editing Targets
+shortLabel SLC52A1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for SLC52A1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SLC52A1/SLC52A1_ng.bb

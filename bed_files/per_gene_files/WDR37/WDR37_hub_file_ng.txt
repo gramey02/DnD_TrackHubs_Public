@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - WDR37
+shortLabel D&D Gene Editing - WDR37
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (WDR37)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track WDR37 Common Variant Editing Targets
+shortLabel WDR37 targets
+longLabel Mutation-agnostic and allele-specific editing sites for WDR37
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/WDR37/WDR37_ng.bb

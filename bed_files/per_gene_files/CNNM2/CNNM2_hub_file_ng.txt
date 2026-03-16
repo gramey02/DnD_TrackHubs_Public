@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CNNM2
+shortLabel D&D Gene Editing - CNNM2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CNNM2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CNNM2 Common Variant Editing Targets
+shortLabel CNNM2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CNNM2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CNNM2/CNNM2_ng.bb

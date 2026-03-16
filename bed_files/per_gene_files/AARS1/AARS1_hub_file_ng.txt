@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - AARS1
+shortLabel D&D Gene Editing - AARS1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (AARS1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track AARS1 Common Variant Editing Targets
+shortLabel AARS1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for AARS1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/AARS1/AARS1_ng.bb

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PRPF4
+shortLabel D&D Gene Editing - PRPF4
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PRPF4)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PRPF4 Common Variant Editing Targets
+shortLabel PRPF4 targets
+longLabel Mutation-agnostic and allele-specific editing sites for PRPF4
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PRPF4/PRPF4_ng.bb

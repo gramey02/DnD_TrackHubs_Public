@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - HECW2
+shortLabel D&D Gene Editing - HECW2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (HECW2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track HECW2 Common Variant Editing Targets
+shortLabel HECW2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for HECW2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/HECW2/HECW2_ng.bb

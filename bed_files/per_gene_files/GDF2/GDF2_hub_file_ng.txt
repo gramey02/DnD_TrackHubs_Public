@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GDF2
+shortLabel D&D Gene Editing - GDF2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GDF2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GDF2 Common Variant Editing Targets
+shortLabel GDF2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for GDF2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GDF2/GDF2_ng.bb

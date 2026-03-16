@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CEP85L
+shortLabel D&D Gene Editing - CEP85L
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CEP85L)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CEP85L Common Variant Editing Targets
+shortLabel CEP85L targets
+longLabel Mutation-agnostic and allele-specific editing sites for CEP85L
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CEP85L/CEP85L_ng.bb

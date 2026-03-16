@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - MED12L
+shortLabel D&D Gene Editing - MED12L
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (MED12L)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track MED12L Common Variant Editing Targets
+shortLabel MED12L targets
+longLabel Mutation-agnostic and allele-specific editing sites for MED12L
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/MED12L/MED12L_ng.bb

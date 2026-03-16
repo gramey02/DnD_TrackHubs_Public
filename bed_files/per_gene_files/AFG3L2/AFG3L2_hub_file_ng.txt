@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - AFG3L2
+shortLabel D&D Gene Editing - AFG3L2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (AFG3L2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track AFG3L2 Common Variant Editing Targets
+shortLabel AFG3L2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for AFG3L2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/AFG3L2/AFG3L2_ng.bb

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - HNRNPDL
+shortLabel D&D Gene Editing - HNRNPDL
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (HNRNPDL)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track HNRNPDL Common Variant Editing Targets
+shortLabel HNRNPDL targets
+longLabel Mutation-agnostic and allele-specific editing sites for HNRNPDL
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/HNRNPDL/HNRNPDL_ng.bb

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GFI1B
+shortLabel D&D Gene Editing - GFI1B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GFI1B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GFI1B Common Variant Editing Targets
+shortLabel GFI1B targets
+longLabel Mutation-agnostic and allele-specific editing sites for GFI1B
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GFI1B/GFI1B_ng.bb

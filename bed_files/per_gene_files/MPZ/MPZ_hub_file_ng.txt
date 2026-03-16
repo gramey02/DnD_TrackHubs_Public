@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - MPZ
+shortLabel D&D Gene Editing - MPZ
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (MPZ)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track MPZ Common Variant Editing Targets
+shortLabel MPZ targets
+longLabel Mutation-agnostic and allele-specific editing sites for MPZ
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/MPZ/MPZ_ng.bb

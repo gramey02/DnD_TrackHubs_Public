@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - NFKBIA
+shortLabel D&D Gene Editing - NFKBIA
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (NFKBIA)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track NFKBIA Common Variant Editing Targets
+shortLabel NFKBIA targets
+longLabel Mutation-agnostic and allele-specific editing sites for NFKBIA
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/NFKBIA/NFKBIA_ng.bb

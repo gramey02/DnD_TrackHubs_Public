@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CPOX
+shortLabel D&D Gene Editing - CPOX
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CPOX)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CPOX Common Variant Editing Targets
+shortLabel CPOX targets
+longLabel Mutation-agnostic and allele-specific editing sites for CPOX
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CPOX/CPOX_ng.bb

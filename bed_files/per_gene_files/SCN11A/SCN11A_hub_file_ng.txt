@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SCN11A
+shortLabel D&D Gene Editing - SCN11A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SCN11A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SCN11A Common Variant Editing Targets
+shortLabel SCN11A targets
+longLabel Mutation-agnostic and allele-specific editing sites for SCN11A
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SCN11A/SCN11A_ng.bb

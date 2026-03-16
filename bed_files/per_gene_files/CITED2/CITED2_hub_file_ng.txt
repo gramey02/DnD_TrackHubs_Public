@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - CITED2
+shortLabel D&D Gene Editing - CITED2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (CITED2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track CITED2 Common Variant Editing Targets
+shortLabel CITED2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for CITED2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CITED2/CITED2_ng.bb

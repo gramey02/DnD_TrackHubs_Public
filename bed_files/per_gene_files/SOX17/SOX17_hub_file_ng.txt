@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SOX17
+shortLabel D&D Gene Editing - SOX17
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SOX17)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SOX17 Common Variant Editing Targets
+shortLabel SOX17 targets
+longLabel Mutation-agnostic and allele-specific editing sites for SOX17
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SOX17/SOX17_ng.bb

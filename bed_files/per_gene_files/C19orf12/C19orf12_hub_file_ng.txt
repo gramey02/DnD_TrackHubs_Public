@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - C19orf12
+shortLabel D&D Gene Editing - C19orf12
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (C19orf12)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track C19orf12 Common Variant Editing Targets
+shortLabel C19orf12 targets
+longLabel Mutation-agnostic and allele-specific editing sites for C19orf12
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/C19orf12/C19orf12_ng.bb

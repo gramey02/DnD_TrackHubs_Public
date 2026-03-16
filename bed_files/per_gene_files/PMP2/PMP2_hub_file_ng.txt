@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PMP2
+shortLabel D&D Gene Editing - PMP2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PMP2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PMP2 Common Variant Editing Targets
+shortLabel PMP2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for PMP2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PMP2/PMP2_ng.bb

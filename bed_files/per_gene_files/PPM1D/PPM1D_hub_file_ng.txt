@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PPM1D
+shortLabel D&D Gene Editing - PPM1D
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PPM1D)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PPM1D Common Variant Editing Targets
+shortLabel PPM1D targets
+longLabel Mutation-agnostic and allele-specific editing sites for PPM1D
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PPM1D/PPM1D_ng.bb

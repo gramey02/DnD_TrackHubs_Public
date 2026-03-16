@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - NEXN
+shortLabel D&D Gene Editing - NEXN
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (NEXN)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track NEXN Common Variant Editing Targets
+shortLabel NEXN targets
+longLabel Mutation-agnostic and allele-specific editing sites for NEXN
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/NEXN/NEXN_ng.bb

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - STT3A
+shortLabel D&D Gene Editing - STT3A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (STT3A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track STT3A Common Variant Editing Targets
+shortLabel STT3A targets
+longLabel Mutation-agnostic and allele-specific editing sites for STT3A
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/STT3A/STT3A_ng.bb

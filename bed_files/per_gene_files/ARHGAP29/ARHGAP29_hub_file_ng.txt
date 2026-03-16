@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ARHGAP29
+shortLabel D&D Gene Editing - ARHGAP29
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ARHGAP29)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ARHGAP29 Common Variant Editing Targets
+shortLabel ARHGAP29 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ARHGAP29
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ARHGAP29/ARHGAP29_ng.bb

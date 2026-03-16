@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ATP13A3
+shortLabel D&D Gene Editing - ATP13A3
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ATP13A3)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ATP13A3 Common Variant Editing Targets
+shortLabel ATP13A3 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ATP13A3
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ATP13A3/ATP13A3_ng.bb

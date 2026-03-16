@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - KIF21A
+shortLabel D&D Gene Editing - KIF21A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (KIF21A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track KIF21A Common Variant Editing Targets
+shortLabel KIF21A targets
+longLabel Mutation-agnostic and allele-specific editing sites for KIF21A
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/KIF21A/KIF21A_ng.bb

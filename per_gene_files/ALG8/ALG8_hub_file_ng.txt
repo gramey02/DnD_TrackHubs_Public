@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ALG8
+shortLabel D&D Gene Editing - ALG8
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ALG8)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ALG8 Common Variant Editing Targets
+shortLabel ALG8 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ALG8
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ALG8/ALG8_ng.bb

@@ -1,0 +1,28 @@
+table commonVar_geneEdits
+    "BED file with CRISPR gene editing information"
+    (
+        string  chrom;         "Reference sequence chromosome or scaffold"
+        uint    chromStart;    "Start position of feature on chromosome"
+        uint    chromEnd;      "End position of feature on chromosome"
+        string  name;          "Variant identifier"
+        uint    score;         "Score"
+        char[1] strand;        "+ or - for strand"
+        uint    thickStart;    "Coding region start"
+        uint    thickEnd;      "Coding region end"
+        uint    itemRgb;       "Color corresponding to edit strategy"
+        string  description;   "Description"
+        string  RefAlt;        "Ref/Alt allele"
+        string  af;            "Allele frequency (AF)"
+        string  maf;           "Minor allele frequency (MAF)"
+        lstring genos;         "Global genotype frequencies in 1000 Genomes"
+        lstring afr;           "AFR genotype frequencies (1000 Genomes)"
+        lstring eur;           "EUR genotype frequencies (1000 Genomes)"
+        lstring amr;           "AMR genotype frequencies (1000 Genomes)"
+        lstring eas;           "EAS genotype frequencies (1000 Genomes)"
+        lstring sas;           "SAS genotype frequencies (1000 Genomes)"
+        string  editStrats;    "Targetable by the following CRISPR editing strategies"
+        string  exParts;       "Five closest excision partners, if any"
+        string  PAMtargetable; "CRISPR/SpCas9 Targetable?"
+        string  castool;       "Cas/gRNA generation tools"
+    )
+    

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - EGFR
+shortLabel D&D Gene Editing - EGFR
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (EGFR)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track EGFR Common Variant Editing Targets
+shortLabel EGFR targets
+longLabel Mutation-agnostic and allele-specific editing sites for EGFR
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/EGFR/EGFR_ng.bb

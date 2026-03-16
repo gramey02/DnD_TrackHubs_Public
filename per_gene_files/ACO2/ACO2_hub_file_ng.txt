@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ACO2
+shortLabel D&D Gene Editing - ACO2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ACO2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ACO2 Common Variant Editing Targets
+shortLabel ACO2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ACO2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ACO2/ACO2_ng.bb

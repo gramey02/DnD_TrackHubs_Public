@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GREM1
+shortLabel D&D Gene Editing - GREM1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GREM1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GREM1 Common Variant Editing Targets
+shortLabel GREM1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for GREM1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GREM1/GREM1_ng.bb

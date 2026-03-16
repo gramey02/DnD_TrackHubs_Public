@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - FAM111B
+shortLabel D&D Gene Editing - FAM111B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (FAM111B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track FAM111B Common Variant Editing Targets
+shortLabel FAM111B targets
+longLabel Mutation-agnostic and allele-specific editing sites for FAM111B
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/FAM111B/FAM111B_ng.bb

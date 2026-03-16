@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ALG5
+shortLabel D&D Gene Editing - ALG5
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ALG5)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ALG5 Common Variant Editing Targets
+shortLabel ALG5 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ALG5
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ALG5/ALG5_ng.bb

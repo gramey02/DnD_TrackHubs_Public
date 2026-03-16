@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - DNAJC5
+shortLabel D&D Gene Editing - DNAJC5
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (DNAJC5)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track DNAJC5 Common Variant Editing Targets
+shortLabel DNAJC5 targets
+longLabel Mutation-agnostic and allele-specific editing sites for DNAJC5
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/DNAJC5/DNAJC5_ng.bb

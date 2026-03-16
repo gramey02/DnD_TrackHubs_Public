@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - GLUL
+shortLabel D&D Gene Editing - GLUL
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (GLUL)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track GLUL Common Variant Editing Targets
+shortLabel GLUL targets
+longLabel Mutation-agnostic and allele-specific editing sites for GLUL
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GLUL/GLUL_ng.bb

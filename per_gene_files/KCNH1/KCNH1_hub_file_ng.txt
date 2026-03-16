@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - KCNH1
+shortLabel D&D Gene Editing - KCNH1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (KCNH1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track KCNH1 Common Variant Editing Targets
+shortLabel KCNH1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for KCNH1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/KCNH1/KCNH1_ng.bb

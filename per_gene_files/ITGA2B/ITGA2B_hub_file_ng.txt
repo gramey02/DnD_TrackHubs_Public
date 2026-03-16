@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ITGA2B
+shortLabel D&D Gene Editing - ITGA2B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ITGA2B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ITGA2B Common Variant Editing Targets
+shortLabel ITGA2B targets
+longLabel Mutation-agnostic and allele-specific editing sites for ITGA2B
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ITGA2B/ITGA2B_ng.bb

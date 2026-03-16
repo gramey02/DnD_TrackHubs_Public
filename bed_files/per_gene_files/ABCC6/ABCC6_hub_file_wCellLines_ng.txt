@@ -11,7 +11,7 @@ shortLabel ABCC6 targets
 longLabel Mutation-agnostic and allele-specific editing sites for ABCC6
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ABCC6/ABCC6_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/ABCC6/ABCC6_ng.bb
 
 track WTB_vcf
 shortLabel WTB variants

@@ -11,4 +11,4 @@ shortLabel CACNA1S targets
 longLabel Mutation-agnostic and allele-specific editing sites for CACNA1S
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/CACNA1S/CACNA1S_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/CACNA1S/CACNA1S_ng.bb

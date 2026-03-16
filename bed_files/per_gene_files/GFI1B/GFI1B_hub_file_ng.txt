@@ -11,4 +11,4 @@ shortLabel GFI1B targets
 longLabel Mutation-agnostic and allele-specific editing sites for GFI1B
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/GFI1B/GFI1B_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/GFI1B/GFI1B_ng.bb

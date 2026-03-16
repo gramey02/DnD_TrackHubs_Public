@@ -11,4 +11,4 @@ shortLabel H1-4 targets
 longLabel Mutation-agnostic and allele-specific editing sites for H1-4
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/H1-4/H1-4_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/H1-4/H1-4_ng.bb

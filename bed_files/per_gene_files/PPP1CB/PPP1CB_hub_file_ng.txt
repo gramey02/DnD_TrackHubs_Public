@@ -11,4 +11,4 @@ shortLabel PPP1CB targets
 longLabel Mutation-agnostic and allele-specific editing sites for PPP1CB
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PPP1CB/PPP1CB_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/PPP1CB/PPP1CB_ng.bb

@@ -11,4 +11,4 @@ shortLabel SNAP25 targets
 longLabel Mutation-agnostic and allele-specific editing sites for SNAP25
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SNAP25/SNAP25_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/SNAP25/SNAP25_ng.bb

@@ -11,4 +11,4 @@ shortLabel SCNN1G targets
 longLabel Mutation-agnostic and allele-specific editing sites for SCNN1G
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SCNN1G/SCNN1G_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/SCNN1G/SCNN1G_ng.bb

@@ -11,4 +11,4 @@ shortLabel SLC52A1 targets
 longLabel Mutation-agnostic and allele-specific editing sites for SLC52A1
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SLC52A1/SLC52A1_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/SLC52A1/SLC52A1_ng.bb

@@ -11,7 +11,7 @@ shortLabel NR2F2 targets
 longLabel Mutation-agnostic and allele-specific editing sites for NR2F2
 visibility pack
 type bigBed
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/NR2F2/NR2F2_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/per_gene_files/NR2F2/NR2F2_ng.bb
 
 track WTB_vcf
 shortLabel WTB variants

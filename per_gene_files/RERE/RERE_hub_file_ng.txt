@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - RERE
+shortLabel D&D Gene Editing - RERE
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (RERE)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track RERE Common Variant Editing Targets
+shortLabel RERE targets
+longLabel Mutation-agnostic and allele-specific editing sites for RERE
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/RERE/RERE_ng.bb

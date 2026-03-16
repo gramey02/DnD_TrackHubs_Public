@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - LRP12
+shortLabel D&D Gene Editing - LRP12
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (LRP12)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track LRP12 Common Variant Editing Targets
+shortLabel LRP12 targets
+longLabel Mutation-agnostic and allele-specific editing sites for LRP12
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/LRP12/LRP12_ng.bb

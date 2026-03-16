@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - ORAI1
+shortLabel D&D Gene Editing - ORAI1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (ORAI1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track ORAI1 Common Variant Editing Targets
+shortLabel ORAI1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for ORAI1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/ORAI1/ORAI1_ng.bb

@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - MYL3
+shortLabel D&D Gene Editing - MYL3
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (MYL3)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track MYL3 Common Variant Editing Targets
+shortLabel MYL3 targets
+longLabel Mutation-agnostic and allele-specific editing sites for MYL3
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/MYL3/MYL3_ng.bb

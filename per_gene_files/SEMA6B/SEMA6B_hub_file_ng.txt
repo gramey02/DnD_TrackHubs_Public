@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - SEMA6B
+shortLabel D&D Gene Editing - SEMA6B
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (SEMA6B)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track SEMA6B Common Variant Editing Targets
+shortLabel SEMA6B targets
+longLabel Mutation-agnostic and allele-specific editing sites for SEMA6B
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/SEMA6B/SEMA6B_ng.bb

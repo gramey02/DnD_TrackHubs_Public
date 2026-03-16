@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - RFX7
+shortLabel D&D Gene Editing - RFX7
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (RFX7)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track RFX7 Common Variant Editing Targets
+shortLabel RFX7 targets
+longLabel Mutation-agnostic and allele-specific editing sites for RFX7
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/RFX7/RFX7_ng.bb

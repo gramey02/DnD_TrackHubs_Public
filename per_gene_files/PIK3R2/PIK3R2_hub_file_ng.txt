@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PIK3R2
+shortLabel D&D Gene Editing - PIK3R2
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PIK3R2)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PIK3R2 Common Variant Editing Targets
+shortLabel PIK3R2 targets
+longLabel Mutation-agnostic and allele-specific editing sites for PIK3R2
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PIK3R2/PIK3R2_ng.bb

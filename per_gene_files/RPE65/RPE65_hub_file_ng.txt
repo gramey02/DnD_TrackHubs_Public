@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - RPE65
+shortLabel D&D Gene Editing - RPE65
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (RPE65)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track RPE65 Common Variant Editing Targets
+shortLabel RPE65 targets
+longLabel Mutation-agnostic and allele-specific editing sites for RPE65
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/RPE65/RPE65_ng.bb

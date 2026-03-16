@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PIK3CD
+shortLabel D&D Gene Editing - PIK3CD
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PIK3CD)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PIK3CD Common Variant Editing Targets
+shortLabel PIK3CD targets
+longLabel Mutation-agnostic and allele-specific editing sites for PIK3CD
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PIK3CD/PIK3CD_ng.bb

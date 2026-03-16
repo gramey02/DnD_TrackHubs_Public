@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PPP1R12A
+shortLabel D&D Gene Editing - PPP1R12A
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PPP1R12A)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PPP1R12A Common Variant Editing Targets
+shortLabel PPP1R12A targets
+longLabel Mutation-agnostic and allele-specific editing sites for PPP1R12A
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PPP1R12A/PPP1R12A_ng.bb

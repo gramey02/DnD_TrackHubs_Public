@@ -1,0 +1,14 @@
+hub Dominant & Dispensible Gene Editing Opportunities - PACS1
+shortLabel D&D Gene Editing - PACS1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (PACS1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track PACS1 Common Variant Editing Targets
+shortLabel PACS1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for PACS1
+visibility pack
+type bigBed
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs/refs/heads/main/bed_files/per_gene_files/PACS1/PACS1_ng.bb

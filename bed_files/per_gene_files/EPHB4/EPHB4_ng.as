@@ -23,6 +23,7 @@ table commonVar_geneEdits
         string  editStrats;    "Targetable by the following CRISPR editing strategies"
         string  exParts;       "Five closest excision partners, if any"
         string  PAMtargetable; "CRISPR/SpCas9 Targetable?"
+        lstring flanking;      "+/- 25 bp flanking variant"
         string  castool;       "Cas/gRNA generation tools"
     )
     

@@ -4,7 +4,7 @@
 This repository includes bed and bigBed files that can be uploaded to UCSC Genome Browsers' TrackHub page.
 
 ## Easy Quickstart
-A saved session with a track showing all D&D gene editing targets can be found [here](). Note that the initial view opens on _MYH7_, but one can navigate to any gene of interest and the track will persist.
+A saved session with a track showing all D&D gene editing targets can be found [here](https://genome.ucsc.edu/s/gramey02/All_DnDgenes_session). Note that the initial view opens on _NEFL_, but one can navigate to any gene of interest and the track will persist.
 
 ## How to view variants for your specific gene
 Navigate to the `bed_files/per_gene_files` folder and select your gene of interest. There are a few files in each gene's folder:

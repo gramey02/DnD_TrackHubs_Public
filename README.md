@@ -28,4 +28,10 @@ Follow the steps above to upload the .txt file of interest for all genes. The .t
 ## Tutorials
 A step-by-step guide (similar to the above but with screenshots of each step) and a Youtube tutorial video are in development.
 
+## Citation
+Please cite the following [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.03.26.26349431v1) when using code from this repository:
+```bash
+Ramey, G. D., Cowan, Q. T., Saxena, A. G., Macklin, B. L., Watry, H. L., Mei, S., ... & Capra, J. A. (2026). Leveraging human genetic variation to therapeutically target hundreds of genes with dominant & dispensable disease alleles. medRxiv, 2026-03.
+```
+
 

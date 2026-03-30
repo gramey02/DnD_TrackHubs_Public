@@ -16,7 +16,7 @@ Navigate to the `bed_files/per_gene_files` folder and select your gene of intere
     * `<gene>_hub_file_ng.txt` file - text file with track metadata that points to gene's bigbed file
     * `<gene>_hub_file_wCellLines_ng.txt` file - text file with track metadata that points to gene's bigbed file. Also incorporates commonly used cell line genomes as tracks for visualizing whether certain cell lines are heterozygous at common variant locations
 
-For uploading single gene files, use either of the .txt files (depending on whether you want to view cell line variants along with your reference genome common variants on interest).
+For uploading single gene files, use either of the .txt files (depending on whether you want to view cell line variants along with your reference genome common variants of interest).
 
 To upload the file, click into the .txt file, click on `Raw`, and copy the resulting link at the top of the page. Then, navigate to UCSC's [TrackHub](https://genome.ucsc.edu/cgi-bin/hgHubConnect#unlistedHubs) location.
 

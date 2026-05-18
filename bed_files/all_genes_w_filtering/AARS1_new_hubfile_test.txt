@@ -13,7 +13,7 @@ visibility pack
 type bigBed
 filterValues.editStrats exon disruption,epigenetic silencing,splice site disruption,excision
 filterType.editStrats multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/AARS1_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/AARS1_ng.bb
 
 track WTB_bb
 shortLabel WTB variants
@@ -22,7 +22,7 @@ visibility pack
 type bigBed
 filterValues.snv_qual HIGH,LOW
 filterType.snv_qual multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTB_het.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/WTB_het.bb
 
 track WTC_bb
 shortLabel WTC variants
@@ -31,7 +31,7 @@ visibility pack
 type bigBed
 filterValues.snv_qual HIGH,LOW
 filterType.snv_qual multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTC_het.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/WTC_het.bb
 
 track WTD_bb
 shortLabel WTD variants
@@ -40,7 +40,7 @@ visibility pack
 type bigBed
 filterValues.snv_qual HIGH,LOW
 filterType.snv_qual multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTD_het.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/WTD_het.bb
 
 track KOLF2_bb
 shortLabel KOLF2 variants
@@ -49,4 +49,4 @@ visibility pack
 type bigBed
 filterValues.snv_qual HIGH,LOW
 filterType.snv_qual multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/KOLF2_het.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/KOLF2_het.bb

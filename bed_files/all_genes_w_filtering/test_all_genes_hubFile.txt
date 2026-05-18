@@ -16,7 +16,7 @@ filterType.editStrats multipleListOr
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/test_all_genes_bigBed.bb
 
 track WTB_bb
-shortLabel WTB het variants
+shortLabel WTB het vars
 longLabel WTB Cell Line Heterozygous Variants
 visibility pack
 type bigBed
@@ -25,7 +25,7 @@ filterType.snv_qual multipleListOr
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTB_het.bb
 
 track WTC_bb
-shortLabel WTC het variants
+shortLabel WTC het vars
 longLabel WTC Cell Line Heterozygous Variants
 visibility pack
 type bigBed
@@ -34,7 +34,7 @@ filterType.snv_qual multipleListOr
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTC_het.bb
 
 track WTD_bb
-shortLabel WTD het variants
+shortLabel WTD het vars
 longLabel WTD Cell Line Heterozygous Variants
 visibility pack
 type bigBed
@@ -43,7 +43,7 @@ filterType.snv_qual multipleListOr
 bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTD_het.bb
 
 track KOLF2_bb
-shortLabel KOLF2 het variants
+shortLabel KOLF2 het vars
 longLabel KOLF2 Cell Line Heterozygous Variants
 visibility pack
 type bigBed

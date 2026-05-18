@@ -1,0 +1,52 @@
+hub Dominant & Dispensible Gene Editing Opportunities - AARS1
+shortLabel D&D Gene Editing - AARS1
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities (AARS1)
+useOneFile on
+email Grace.Ramey@ucsf.edu
+
+genome hg38
+
+track AARS1 Common Variant Editing Targets
+shortLabel AARS1 targets
+longLabel Mutation-agnostic and allele-specific editing sites for AARS1
+visibility pack
+type bigBed
+filterValues.editStrats exon disruption,epigenetic silencing,splice site disruption,excision
+filterType.editStrats multipleListOr
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/AARS1_ng.bb
+
+track WTB_bb
+shortLabel WTB variants
+longLabel Cell Line Variants: WTB
+visibility pack
+type bigBed
+filterValues.snv_qual HIGH,LOW
+filterType.snv_qual multipleListOr
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTB_het.bb
+
+track WTC_bb
+shortLabel WTC variants
+longLabel Cell Line Variants: WTC
+visibility pack
+type bigBed
+filterValues.snv_qual HIGH,LOW
+filterType.snv_qual multipleListOr
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTC_het.bb
+
+track WTD_bb
+shortLabel WTD variants
+longLabel Cell Line Variants: WTD
+visibility pack
+type bigBed
+filterValues.snv_qual HIGH,LOW
+filterType.snv_qual multipleListOr
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/WTD_het.bb
+
+track KOLF2_bb
+shortLabel KOLF2 variants
+longLabel Cell Line Variants: KOLF2
+visibility pack
+type bigBed
+filterValues.snv_qual HIGH,LOW
+filterType.snv_qual multipleListOr
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/all_genes_w_filtering/KOLF2_het.bb

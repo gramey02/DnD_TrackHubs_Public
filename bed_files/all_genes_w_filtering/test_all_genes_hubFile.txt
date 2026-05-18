@@ -13,7 +13,7 @@ visibility pack
 type bigBed
 filterValues.editStrats exon disruption,epigenetic silencing,splice site disruption,excision
 filterType.editStrats multipleListOr
-bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/DnD_gene_ng.bb
+bigDataUrl https://raw.githubusercontent.com/gramey02/DnD_TrackHubs_Public/refs/heads/main/bed_files/all_genes_w_filtering/test_all_genes_bigBed.bb
 
 track WTB_bb
 shortLabel WTB het variants

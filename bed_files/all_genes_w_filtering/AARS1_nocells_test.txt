@@ -6,7 +6,7 @@ email Grace.Ramey@ucsf.edu
 
 genome hg38
 
-track AARS1 Common Variant Editing Targets
+track AARS1_Common_Variant_Editing_Targets
 shortLabel AARS1 targets
 longLabel Mutation-agnostic and allele-specific editing sites for AARS1
 visibility pack

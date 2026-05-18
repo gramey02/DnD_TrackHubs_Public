@@ -1,14 +1,14 @@
-hub Dominant & Dispensible Gene Editing Opportunities
-shortLabel D&D Gene Editing Opportunities
-longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities
+hub Dominant & Dispensible Gene Editing Opportunities with filtering
+shortLabel D&D Gene Editing Opportunities with filtering
+longLabel Common genetic variant hub for dominant and dispensible (D&D) gene editing opportunities with filtering
 useOneFile on
 email Grace.Ramey@ucsf.edu
 
 genome hg38
 
-track CommonVar_EditingTargets
-shortLabel D&D gene editing targets
-longLabel Mutation-agnostic and allele-specific editing sites for D&D genes
+track CommonVar_EditingTargets_With_Filtering
+shortLabel D&D gene editing targets with filtering
+longLabel Mutation-agnostic and allele-specific editing sites for D&D genes with filtering
 visibility pack
 type bigBed
 filterValues.editStrats exon disruption,epigenetic silencing,splice site disruption,excision

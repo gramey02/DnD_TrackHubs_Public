@@ -26,7 +26,7 @@ In the "Connected Hubs" Tab, upload the raw Github link that was copied, and cli
 Follow the steps above to upload the .txt file of interest for all genes. The .txt file relevant to all genes is located in the `bed_files/metadata` folder.
 
 ## Tutorials
-A step-by-step guide (similar to the above but with screenshots of each step) and a Youtube tutorial video are in development.
+Please view the BrowserTrack_Tutorial.mp4 video for a tutorial on how to use the tracks.
 
 ## Citation
 Please cite the following [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.03.26.26349431v1) when using code from this repository:

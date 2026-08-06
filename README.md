@@ -34,4 +34,5 @@ Please cite the following [medRxiv preprint](https://www.medrxiv.org/content/10.
 Ramey, G. D., Cowan, Q. T., Saxena, A. G., Macklin, B. L., Watry, H. L., Mei, S., ... & Capra, J. A. (2026). Leveraging human genetic variation to therapeutically target hundreds of genes with dominant & dispensable disease alleles. medRxiv, 2026-03.
 ```
 
-
+## Issue reporting
+Please use the 'Issues' tab at the top of the repository (next to 'Code') to report issues. Please use the bug reporting template for pipeline errors and the feature request template for suggested changes to browser tracks, such as color changes and viewing properties.

@@ -1,0 +1,56 @@
+<h2>D&amp;D Gene Editing Targets</h2>
+
+<p>
+This track displays disease mutation-agnostic and allele-specific CRISPR
+editing sites for dominant and dispensable (D&amp;D) genes.
+</p>
+
+<p>
+Each feature on the track represents a labeled single nucleotide
+polymorphism (SNP), where only SNPs with a minor allele frequency (MAF)
+above 0.1 are shown. Additionally, only biallelic SNPs are shown, with a
+few minor exceptions (some multiallelic SNPs with an extremely rare third
+allele are also shown). MAFs and SNPs were taken from the 1000 Genomes
+Phase 3 high coverage data (N=2504).
+</p>
+
+<p>
+Each SNP is targetable by at least one of four gene editing strategies.
+Use the "Filter by gene editing strategy" control to show only SNPs
+matching one or more of the select editing approaches.
+</p>
+
+<h3>Color legend</h3>
+
+<table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;">
+  <tr style="background-color:#EEEEEE;">
+    <th>Color</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td style="background-color:rgb(0,0,0); width:40px;">&nbsp;</td>
+    <td>MAF &lt; 0.3 and targetable by at least one strategy out of exon disruption, epigenetic silencing, or splice site disruption. Note that these SNPs may also be targetable by excision.</td>
+  </tr>
+  <tr>
+    <td style="background-color:rgb(0,26,255); width:40px;">&nbsp;</td>
+    <td>MAF &gt;= 0.5 and targetable by at least one strategy out of exon disruption, epigenetic silencing, or splice site disruption. Note that these SNPs may also be targetable by excision.</td>
+  </tr>
+  <tr>
+    <td style="background-color:rgb(211,211,211); width:40px;">&nbsp;</td>
+    <td>Any MAF, but ONLY targetable by excision.</td>
+  </tr>
+</table>
+
+<h3>Data &amp; code</h3>
+<p>
+Source code, data processing scripts, and full documentation for this hub
+are available on GitHub:<br>
+<a href="https://github.com/gramey02/DnD_TrackHubs_Public" target="_blank">
+https://github.com/gramey02/DnD_TrackHubs_Public</a>
+</p>
+
+<h3>Report an issue</h3>
+<p>
+Found a bug, a mislabeled target, or missing data? Please report it via
+<a href="https://github.com/gramey02/DnD_TrackHubs_Public/issues" target="_blank">GitHub Issues</a>.
+</p>
